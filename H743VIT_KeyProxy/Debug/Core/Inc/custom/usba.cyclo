@@ -1,0 +1,2 @@
+../Core/Inc/custom/usba.c:12:6:USBH_HID_EventCallback	7
+../Core/Inc/custom/usba.c:39:6:USBA_AutoReport	5

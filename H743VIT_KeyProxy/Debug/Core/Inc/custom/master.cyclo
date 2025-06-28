@@ -1,0 +1,6 @@
+../Core/Inc/custom/master.c:21:10:GetRand	2
+../Core/Inc/custom/master.c:30:6:testSend	3
+../Core/Inc/custom/master.c:46:6:SendToSlave	2
+../Core/Inc/custom/master.c:58:9:CheckActive	16
+../Core/Inc/custom/master.c:133:6:ProcessData	2
+../Core/Inc/custom/master.c:153:6:MasterMain	4

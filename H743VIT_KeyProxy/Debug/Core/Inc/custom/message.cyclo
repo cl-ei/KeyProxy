@@ -1,0 +1,4 @@
+../Core/Inc/custom/message.c:24:6:Msg_Init	1
+../Core/Inc/custom/message.c:32:9:Msg_Add	2
+../Core/Inc/custom/message.c:50:9:Msg_IsEmpty	1
+../Core/Inc/custom/message.c:55:9:Msg_Consume	5

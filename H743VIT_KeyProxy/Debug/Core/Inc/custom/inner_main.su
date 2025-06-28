@@ -1,0 +1,3 @@
+../Core/Inc/custom/inner_main.c:11:9:LoadHALUID	8	static
+../Core/Inc/custom/inner_main.c:29:6:EXTI15_10_IRQHandler	16	static
+../Core/Inc/custom/inner_main.c:38:6:myMain	32	static

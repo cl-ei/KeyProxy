@@ -1,0 +1,4 @@
+../Core/Inc/custom/spia.c:11:6:HAL_SPI_TxCpltCallback	16	static
+../Core/Inc/custom/spia.c:17:6:SPIA_TxData	24	static,ignoring_inline_asm
+../Core/Inc/custom/spia.c:40:6:SPIA_Init	16	static
+../Core/Inc/custom/spia.c:51:6:HAL_SPI_RxCpltCallback	24	static

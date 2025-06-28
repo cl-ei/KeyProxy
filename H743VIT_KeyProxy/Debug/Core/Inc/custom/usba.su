@@ -1,0 +1,2 @@
+../Core/Inc/custom/usba.c:12:6:USBH_HID_EventCallback	16	static
+../Core/Inc/custom/usba.c:39:6:USBA_AutoReport	24	static,ignoring_inline_asm
